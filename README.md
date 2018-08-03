@@ -1,4 +1,6 @@
 # Migrate Nextcloud From Ubuntu to FreeBSD
+ 
+When I wrote these steps I was performing the migration but not every step may be 100% accurate.  I tried to be as clear as I could.  This write up was done a couple of months after the migration was completed.
 
 The servers are on Digital Ocean.
 
