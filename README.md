@@ -6,6 +6,10 @@ The servers are on Digital Ocean.
 
 When I first build the server it was an Owncloud server using the existing one click install from Digital Ocean.  Not longer after I converted the Owncloud server to a Nextcloud server following Nextcloud's instructions.  That is why you will see owncloud referenced below.
 
+I followed some of these steps to get an idea of what was needed at a high level.
+
+https://docs.nextcloud.com/server/9/admin_manual/maintenance/migrating.html
+
 ## Put Ubuntu Nextcloud in Maintenance Mode
 
 ```shell
